@@ -1,0 +1,6 @@
+[net]
+git-fetch-with-cli = true
+
+[registries.wg]
+index = "ssh://git@stash.wargaming.net:2222/agate/wg-index.git"
+token = "dummy_token"

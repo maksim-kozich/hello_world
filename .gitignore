@@ -1,0 +1,19 @@
+.idea
+.vscode
+/target
+/var/log/*
+**/*.rs.bk
+**/*.pyc
+
+/env
+.env
+/var/log/*
+
+/contracts
+# vim tmp files
+*~
+*.swp
+
+/**/target/
+/qa/dist/*
+/qa/agate_qa.egg-info/*
