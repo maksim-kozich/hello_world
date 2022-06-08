@@ -17,3 +17,5 @@
 /**/target/
 /qa/dist/*
 /qa/agate_qa.egg-info/*
+
+Cargo.lock
